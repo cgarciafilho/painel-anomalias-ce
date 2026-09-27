@@ -8,10 +8,10 @@ embutidos nela, e os filtros funcionam no navegador, sem servidor e sem internet
 
 Este painel é um projeto pessoal de pesquisa, em **versão preliminar e de teste**. Não é um produto oficial, não foi
 revisado nem aprovado por nenhuma instituição e não representa a posição da Secretaria da Saúde do Ceará, do Ministério
-da Saúde ou de qualquer instituição a que a pessoa responsável esteja vinculada.
+da Saúde, da Universidade de Fortaleza (Unifor) ou de qualquer outra instituição a que o autor esteja vinculado.
 
-**Pode conter erros, e é provável que contenha.** A concepção, o método, a organização do projeto e a revisão são da
-pessoa responsável; a extração, o código, os gráficos e o texto foram feitos com inteligência artificial. A aba
+**Pode conter erros, e é provável que contenha.** A concepção, o método, a organização do projeto e a revisão são de
+cgarciafilho; a extração, o código, os gráficos e o texto foram feitos com inteligência artificial. A aba
 “Sobre esta versão” diz quem fez o quê. Use com cautela e confira os números nas fontes oficiais (TabNet do DATASUS,
 IntegraSUS) antes de citar ou de decidir algo com base neles. As limitações estão na aba “Qualidade e métodos”.
 
@@ -29,3 +29,8 @@ Erros, dúvidas e sugestões: cgarciafilho@gmail.com
 
 Aqui fica só a página publicada. Os scripts que baixam os dados, calculam as contagens e conferem o painel (com o TabNet,
 com cálculo direto em Python e por 300 combinações de filtros) ficam no projeto de origem, que não está publicado.
+
+## Licença
+
+MIT (arquivo `LICENSE`), para a página e o código. Os dados de origem (SIM e SINASC do DATASUS, malha do IBGE,
+regionalização da SESA-CE) são públicos e seguem os termos de cada fonte.
