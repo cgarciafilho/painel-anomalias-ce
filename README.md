@@ -28,7 +28,7 @@ Erros, dúvidas e sugestões: cgarciafilho@gmail.com
 ## Sobre este repositório
 
 Aqui fica só a página publicada. Os scripts que baixam os dados, calculam as contagens e conferem o painel (com o TabNet,
-com cálculo direto em Python e por 300 combinações de filtros) ficam no projeto de origem, que não está publicado.
+com documentos publicados pela SESA-CE, com cálculo direto em Python e por 300 combinações de filtros) ficam no projeto de origem, que não está publicado.
 
 ## Licença
 
